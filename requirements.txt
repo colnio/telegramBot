@@ -65,7 +65,7 @@ pycups==1.9.73
 pycurl==7.43.0.1
 pydub==0.23.1
 pygame==1.9.5
-Pygments==2.2.0
+Pygments==2.7.4
 pygobject==3.26.1
 PyICU==1.9.8
 pyinotify==0.9.6
