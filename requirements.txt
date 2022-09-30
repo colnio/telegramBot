@@ -27,7 +27,7 @@ ipykernel==4.8.2
 ipython==5.5.0
 ipython-genutils==0.2.0
 Jinja2==2.10
-joblib==0.13.2
+joblib==1.2.0
 jsonschema==2.6.0
 jupyter-client==5.2.2
 jupyter-console==5.2.0
